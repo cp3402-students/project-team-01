@@ -1,9 +1,10 @@
-it is standard for GitHub repos to have this file as an overview that displays when you
-go to the root project URL. Include this for completeness with a basic overview and links to the
-other documentation files.
+Project Overview
+The project contained in this repository is for creating a new website for .... using WordPress custom theme.
 
-
-## Test
+Repo Contents
+site.md
+deployment.md
+theme.md
 
 
 ## Arjun was here
