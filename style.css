@@ -1,0 +1,30 @@
+/*
+Theme Name:		underscores-child
+Theme URI:		
+Description:
+Author:		    Joco
+Author Uri:
+Template:		underscores
+Version:		1.0.0
+*/
+
+body {
+    margin: 0;
+}
+
+.site {
+    width: 80%;
+    margin: auto;
+}
+
+.main-navigation {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.main-navigation  li {
+    padding: 8px 16px;
+    width: auto;
+    display: block;
+    outline: 0;
+    letter-spacing: 4px;
+}
