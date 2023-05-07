@@ -1,10 +1,7 @@
-it is standard for GitHub repos to have this file as an overview that displays when you
-go to the root project URL. Include this for completeness with a basic overview and links to the
-other documentation files.
+# Townsville & Thuringowa Country Music Association Site
 
+## About
+This repository contains the child theme files for the site.
 
-## Test
-
-
-## Arjun was here
-Testing Access
+## Versioning
+This repository utilizes semantic versioning. The current version can be found in the child theme's [style.css] (style.css) file.
