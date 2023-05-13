@@ -18,9 +18,11 @@ body {
 }
 
 .main-navigation {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    margin-left: auto;
+    display: block;
+    width: auto;
 }
+
 .main-navigation  li {
     padding: 8px 16px;
     width: auto;
@@ -29,5 +31,9 @@ body {
     letter-spacing: 4px;
 }
 
-/*test commit
-/*HI WORLD
+.site-header {
+    background-color: darkgray;
+    display: flex;
+    justify-self: flex-end;
+    align-items: center;
+}
