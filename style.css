@@ -18,9 +18,11 @@ body {
 }
 
 .main-navigation {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    margin-left: auto;
+    display: block;
+    width: auto;
 }
+
 
 .main-navigation  li {
     padding: 8px 16px;
@@ -29,3 +31,5 @@ body {
     outline: 0;
     letter-spacing: 4px;
 }
+
+/*test commit
