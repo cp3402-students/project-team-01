@@ -32,4 +32,9 @@ body {
     letter-spacing: 4px;
 }
 
-/*test commit
+.site-header {
+    background-color: darkgray;
+    display: flex;
+    justify-self: flex-end;
+    align-items: center;
+}
