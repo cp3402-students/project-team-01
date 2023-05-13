@@ -1,11 +1,11 @@
 /*
-Theme Name:		underscores-child
-Theme URI:		
-Description:
-Author:		    Joco
-Author Uri:
-Template:		underscores
-Version:		1.0.0
+Theme Name:     Underscores Child
+Theme URI:      https://github.com/cp3402-students/project-team-01
+Description:    A child theme for Underscores
+Author:         Group 1
+Author URI:     https://github.com/cp3402-students/project-team-01
+Template:       underscores
+Version:        1.0.0
 */
 
 body {
@@ -21,6 +21,7 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
 .main-navigation  li {
     padding: 8px 16px;
     width: auto;
@@ -28,5 +29,3 @@ body {
     outline: 0;
     letter-spacing: 4px;
 }
-
-/*test commit
