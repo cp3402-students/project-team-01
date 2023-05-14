@@ -12,9 +12,24 @@ body {
     margin: 0;
 }
 
-.site {
+.site-main {
     width: 80%;
     margin: auto;
+}
+
+.site-header {
+    background-color: darkgray;
+    width: 100%;
+    display: flex;
+    justify-self: flex-end;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.site-branding {
+    padding: 8px;
 }
 
 .main-navigation {
@@ -31,9 +46,6 @@ body {
     letter-spacing: 4px;
 }
 
-.site-header {
-    background-color: darkgray;
-    display: flex;
-    justify-self: flex-end;
-    align-items: center;
+.entry-content {
+    position: inherit;
 }
