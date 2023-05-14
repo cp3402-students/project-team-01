@@ -1,9 +1,9 @@
 /*
 Theme Name:		underscores-child
-Theme URI:		
-Description:
+Theme URI:		https://github.com/cp3402-students/project-team-01
+Description:    A child theme for Underscores
 Author:		    Joco
-Author Uri:
+Author Uri:     https://github.com/cp3402-students/project-team-01
 Template:		underscores
 Version:		1.0.0
 */
@@ -18,9 +18,11 @@ body {
 }
 
 .main-navigation {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    margin-left: auto;
+    display: block;
+    width: auto;
 }
+
 .main-navigation  li {
     padding: 8px 16px;
     width: auto;
@@ -29,4 +31,9 @@ body {
     letter-spacing: 4px;
 }
 
-/*test commit
+.site-header {
+    background-color: darkgray;
+    display: flex;
+    justify-self: flex-end;
+    align-items: center;
+}
