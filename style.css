@@ -80,3 +80,10 @@ remove posted in tag
 /*
 gives a gap between site top menu bar and pictures on gallery page
 */
+
+.forminator-edit-module{
+	display: none
+}
+/*
+remove button to edit form
+*/
