@@ -55,9 +55,25 @@ a, a:link, a:visited, a:focus, a:hover, a:active {
 }
 
 .site-footer > .site-info { display: none; }
+/*
+remove footer
+*/
 
 .entry-meta {
 	display: none;}
+/*
+remove posted on this date tag
+*/
 
 .cat-links {
     display: none;}
+/*
+remove posted in tag
+*/
+
+.site-main {
+	padding-top: 100px
+}
+/*
+gives a gap between site top menu bar and pictures on gallery page
+*/
