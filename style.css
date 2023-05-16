@@ -55,3 +55,6 @@ a, a:link, a:visited, a:focus, a:hover, a:active {
 }
 
 .site-footer > .site-info { display: none; }
+
+.entry-meta {
+	display: none;}
