@@ -53,3 +53,5 @@ body {
 a, a:link, a:visited, a:focus, a:hover, a:active {
     text-decoration:none;
 }
+
+.site-footer > .site-info { display: none; }
