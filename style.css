@@ -12,9 +12,27 @@ body {
     margin: 0;
 }
 
-.site {
+.site-main {
     width: 80%;
     margin: auto;
+}
+
+.site-header {
+    background-color: darkgray;
+    width: 100%;
+    display: flex;
+    justify-self: flex-end;
+    align-items: center;
+    /*
+    position: fixed;
+    this line makes the menu go off the right of the screen
+    */
+    top: 0;
+    z-index: 1;
+}
+
+.site-branding {
+    padding: 8px;
 }
 
 .main-navigation {
@@ -31,13 +49,41 @@ body {
     letter-spacing: 4px;
 }
 
-.site-header {
-    background-color: darkgray;
-    display: flex;
-    justify-self: flex-end;
-    align-items: center;
+.entry-content {
+    position: inherit;
 }
 
 a, a:link, a:visited, a:focus, a:hover, a:active {
     text-decoration:none;
 }
+
+.site-footer > .site-info { display: none; }
+/*
+remove footer
+*/
+
+.entry-meta {
+	display: none;}
+/*
+remove posted on this date tag
+*/
+
+.cat-links {
+    display: none;}
+/*
+remove posted in tag
+*/
+
+.site-main {
+	padding-top: 100px
+}
+/*
+gives a gap between site top menu bar and pictures on gallery page
+*/
+
+.forminator-edit-module{
+	display: none
+}
+/*
+remove button to edit form
+*/
