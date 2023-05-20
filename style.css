@@ -2,7 +2,7 @@
 Theme Name:		underscores-child
 Theme URI:		https://github.com/cp3402-students/project-team-01
 Description:    A child theme for Underscores
-Author:		    Joco
+Author:		    Group 1
 Author Uri:     https://github.com/cp3402-students/project-team-01
 Template:		underscores
 Version:		1.0.0
@@ -57,11 +57,6 @@ a, a:link, a:visited, a:focus, a:hover, a:active {
     text-decoration:none;
 }
 
-.site-footer > .site-info { display: none; }
-/*
-remove footer
-*/
-
 .entry-meta {
 	display: none;}
 /*
@@ -89,4 +84,21 @@ remove button to edit form
 */
 .page-title {
 	display: none;
+}
+
+.site-footer{
+    height: 200px;
+    background: teal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.site-footer a, a:link, a:visited, a:focus, a:active{
+    color: darkgrey;
+}
+
+.site-footer a:hover{
+    color: black;
 }

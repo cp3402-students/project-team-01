@@ -28,8 +28,8 @@ function underscores_child_widgets_init() {
 			'name'          => esc_html__( 'Magazine Sidebar', 'underscores' ),
 			'id'            => 'archive_bar',
 			'description'   => esc_html__( 'Add widgets here.', 'underscores' ),
-			'before_widget' => '<li id="%1$s" class="widget %2$s">',
-			'after_widget'  => '</li>',
+			'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</aside>',
 			'before_title'  => '<h3 class="widget-title">',
 			'after_title'   => '</h3>',
 		)
