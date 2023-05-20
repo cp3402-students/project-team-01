@@ -120,3 +120,23 @@ remove button to edit form
 .site-footer a:hover{
     color: teal;
 }
+
+.entry-header{
+    display: none;
+}
+
+.entry-footer{
+    display: none;
+}
+
+.entry-content {
+    float: left;
+    margin: 0 -25% 0 0;
+    width: 75%;
+}
+.widget-area {
+    float: right;
+    overflow: hidden;
+    width: 27%;
+    padding-right: 6%;
+}
