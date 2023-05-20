@@ -11,14 +11,15 @@ function tt_add_styles() {
     );
 }
 
+/*
 function underscores_child_widgets_init() {
 	register_sidebar(
 		array(
 			'name'          => esc_html__( 'Facebook Sidebar', 'underscores' ),
 			'id'            => 'facebook_bar',
 			'description'   => esc_html__( 'Add widgets here.', 'underscores' ),
-			'before_widget' => '<aside id="%1$s" class="widget %2$s">',
-			'after_widget'  => '</aside>',
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
 			'before_title'  => '<h2 class="widget-title">',
 			'after_title'   => '</h2>',
 		)
@@ -36,3 +37,4 @@ function underscores_child_widgets_init() {
 	);
 }
 add_action( 'widgets_init', 'underscores_child_widgets_init' );
+*/

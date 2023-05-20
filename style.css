@@ -18,17 +18,33 @@ body {
 }
 
 .site-header {
-    background-color: darkgray;
+    background-color: lightgray;
+    height: 200px;
     width: 100%;
     display: flex;
     justify-self: flex-end;
     align-items: center;
+    padding-left: 2%;
+    padding-right: 2%;
     /*
     position: fixed;
     this line makes the menu go off the right of the screen
     */
     top: 0;
     z-index: 1;
+}
+
+.site-header a, a:link, a:visited, a:focus, a:active{
+    color: darkslategrey ;
+}
+
+.site-header a:hover{
+    color: teal;
+}
+  
+.site-title{
+    font-weight: bold;
+    font-size: 150%;
 }
 
 .site-branding {
@@ -39,6 +55,7 @@ body {
     margin-left: auto;
     display: block;
     width: auto;
+    font-weight: bold;
 }
 
 .main-navigation  li {
@@ -46,7 +63,6 @@ body {
     width: auto;
     display: block;
     outline: 0;
-    letter-spacing: 4px;
 }
 
 .entry-content {
@@ -88,17 +104,19 @@ remove button to edit form
 
 .site-footer{
     height: 200px;
-    background: teal;
+    background: lightgray;
     display: flex;
     justify-content: center;
     align-items: center;
     font-weight: bold;
+    clear: both;
+    width: 100%;
 }
 
 .site-footer a, a:link, a:visited, a:focus, a:active{
-    color: darkgrey;
+    color: darkslategrey ;
 }
 
 .site-footer a:hover{
-    color: black;
+    color: teal;
 }
