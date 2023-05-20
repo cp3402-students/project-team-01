@@ -87,3 +87,6 @@ gives a gap between site top menu bar and pictures on gallery page
 /*
 remove button to edit form
 */
+.page-title {
+	display: none;
+}
