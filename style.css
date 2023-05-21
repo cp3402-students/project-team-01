@@ -156,3 +156,9 @@ p.has-important-info {
     display: none;
 }
 
+.menu-item:last-child > .sub-menu {
+    right: 0;
+  }
+  /*
+moves drop down menu to the right, trying to change to vertical
+*/
