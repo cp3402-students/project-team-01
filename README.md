@@ -12,12 +12,19 @@ Throughout the semester, we gained knowledge about various aspects of building w
 
 ## Theme Files
 [archive.php]
+
 [footer.php]
+
 [functions.php]
+
 [header.php]
+
 [page-no-sidebar.php]
+
 [page.php]
+
 [single.php]
+
 [style.css]
 
 
