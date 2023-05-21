@@ -102,6 +102,13 @@ remove button to edit form
 	display: none;
 }
 
+p.has-important-info {
+	
+	color: red;
+	font-weight: bold;
+	text-align: center;
+}
+
 .site-footer{
     height: 200px;
     background: lightgray;
@@ -148,3 +155,4 @@ remove button to edit form
 .comments-area{
     display: none;
 }
+
