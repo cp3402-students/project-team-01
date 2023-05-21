@@ -5,7 +5,7 @@ details about WordPress theme development, only what is specific to your theme
 
 
 ## Theme Features
-
+Underscores also known as _s is a starter theme that provides a foundation for creating custom themes. It allows developers to modify their own set of styles and build functions from the scratch. The underscores theme acts as a blank canvas, providing a starting point for theme development and customization.
 ## Header Customisation
 
 ## Footer Customisation
