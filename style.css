@@ -12,6 +12,10 @@ body {
     margin: 0;
 }
 
+.page {
+    margin: 0;
+}
+
 .site-main {
     width: 80%;
     margin: auto;
@@ -19,7 +23,7 @@ body {
 
 .site-header {
     background-color: lightgray;
-    height: 200px;
+    /* height: 200px; */
     width: 100%;
     display: flex;
     justify-self: flex-end;
@@ -30,19 +34,24 @@ body {
     position: fixed;
     this line makes the menu go off the right of the screen
     */
+    position: sticky;
     top: 0;
     z-index: 1;
 }
 
-.site-header a, a:link, a:visited, a:focus, a:active{
-    color: darkslategrey ;
+.site-header a,
+a:link,
+a:visited,
+a:focus,
+a:active {
+    color: darkslategrey;
 }
 
-.site-header a:hover{
+.site-header a:hover {
     color: teal;
 }
-  
-.site-title{
+
+.site-title {
     font-weight: bold;
     font-size: 150%;
 }
@@ -58,7 +67,7 @@ body {
     font-weight: bold;
 }
 
-.main-navigation  li {
+.main-navigation li {
     padding: 8px 16px;
     width: auto;
     display: block;
@@ -69,41 +78,57 @@ body {
     position: inherit;
 }
 
-a, a:link, a:visited, a:focus, a:hover, a:active {
-    text-decoration:none;
+a,
+a:link,
+a:visited,
+a:focus,
+a:hover,
+a:active {
+    text-decoration: none;
 }
 
 .entry-meta {
-	display: none;}
+    display: none;
+}
+
+
 /*
 remove posted on this date tag
 */
 
 .cat-links {
-    display: none;}
+    display: none;
+}
+
+
 /*
 remove posted in tag
 */
 
 .site-main {
-	padding-top: 100px
+    padding-top: 100px
 }
+
+
 /*
 gives a gap between site top menu bar and pictures on gallery page
 */
 
-.forminator-edit-module{
-	display: none
+.forminator-edit-module {
+    display: none
 }
+
+
 /*
 remove button to edit form
 */
+
 .page-title {
-	display: none;
+    display: none;
 }
 
-.site-footer{
-    height: 200px;
+.site-footer {
+    /* height: 200px; */
     background: lightgray;
     display: flex;
     justify-content: center;
@@ -111,21 +136,27 @@ remove button to edit form
     font-weight: bold;
     clear: both;
     width: 100%;
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 
-.site-footer a, a:link, a:visited, a:focus, a:active{
-    color: darkslategrey ;
+.site-footer a,
+a:link,
+a:visited,
+a:focus,
+a:active {
+    color: darkslategrey;
 }
 
-.site-footer a:hover{
+.site-footer a:hover {
     color: teal;
 }
 
-.entry-header{
+.entry-header {
     display: none;
 }
 
-.entry-footer{
+.entry-footer {
     display: none;
 }
 
@@ -134,6 +165,7 @@ remove button to edit form
     margin: 0 -25% 0 0;
     width: 75%;
 }
+
 .widget-area {
     float: right;
     overflow: hidden;
@@ -141,10 +173,10 @@ remove button to edit form
     padding-right: 6%;
 }
 
-.nav-previous{
+.nav-previous {
     display: none;
 }
 
-.comments-area{
+.comments-area {
     display: none;
 }
