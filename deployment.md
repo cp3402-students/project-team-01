@@ -25,10 +25,8 @@ We used siteground as a hosting for our staging development site and used a plug
 We used our Github repositiory for our verison control for our css and php code and used "Visual Studio Code" to allow us to make changes to the css and php files and push the commited updates to Github. We set up the Github repository link in our local development theme folder on each of our computers so that we could see any of the changes in our local site instantly
 
 ## Project Management
-We outlined and planned our project on "Trello" and assigned tasks to different group members through the Trello workspace. This was used as our main hub for group meetings and standup meetings to evaluate what had been done and tasks that still needed to be completed. We then used our staging site through screen sharing on "Discord"to visually see what had been 
+We outlined and planned our project on "Trello" and assigned tasks to different group members through the Trello workspace. This was used as our main hub for group meetings and standup meetings to evaluate what had been done and tasks that still needed to be completed. We then used our staging site through screen sharing on "Discord" to visually see what had been completed and what ideas we had to add changes for a smoother site design. During each meeting we took notes and made those changes before the next meeting where we discussed new changes and ideas.
 
 ## Testing
 We used our local development as our main source of testing for both content layout and css style editing.
 We used the inspect tab on the web browser of our local site to see the class IDs and tags to certain attrbutes and fields within the site and added in css code to change things like postioning, colour, and margins. We did this testing in the local site using "Visual Studio Code" then once we were happy with the change, we'd commit and push the change to the group repository so that everyone could sync the change to their local sites and continue their testing.
-
-
