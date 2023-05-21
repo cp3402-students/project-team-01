@@ -9,6 +9,11 @@ Underscores also known as _s is a starter theme that provides a foundation for c
 
 ## Theme Customisation
 This is a modified version from the parent them underscore to be used in the project for CP3402 by Project Team 01. Some features and functionality are added for the purpose of completing the requirements for the project.
+
+## Theme Features
+*Customizable navigation menus
+*Custom widgets
+*Page customization
 ## Header Customisation
 
 ## Footer Customisation
