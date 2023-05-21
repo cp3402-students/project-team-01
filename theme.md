@@ -15,9 +15,7 @@ This is a modified version from the parent them underscore to be used in the pro
 * Custom widgets
 * Page customization
 ## Header Customisation
-
-## Footer Customisation
-
+The header will make the navigation of visitor to the website much easier. This feature is suitable for old age visitors so they will not be lost when they want to navigate to a different page.
 ## Fonts
 We have chosen a simple and user-friendly font, Arial, from the sans-serif font family for the colors used in the theme. This font is widely recognized and familiar to users, ensuring a seamless reading experience. However, for the page title, we opted for a more distinctive and captivating font called Pacifico from the Cursive font family. This change adds a unique and visually appealing touch to the title, making it stand out and capturing the attention of visitors.
 ## Colours
