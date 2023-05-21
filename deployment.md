@@ -7,6 +7,8 @@ Github
 
 FB Messenger
 
+Slack
+
 ## Development Tools
 Local
 
