@@ -1,8 +1,19 @@
-Describe your development and deployment workflow in enough detail that a
-new team member or someone taking over the project could follow to successfully develop theme
-updates locally, then test and deploy them to your staging and live sites. This should include aspects
-such as project management, version control, testing and automation. Do not provide private details
-like passwords.
+## Collaborative tools
+Discord
+
+Trello
+
+Github
+
+FB Messenger
+
+## Development Tools
+Local
+
+Visual Studio Code
+
+Wordpress (staging hosted by siteground)
+
 
 ## Local Development
 For each member of the group we installed and used "Local by Flywheel" - a local hosting site that we uploaded a zip file of wordpress to to initialise and start our website. We then started adding content to the website and used a plugin called "All-in-one WP Migration" to export any changes to the staging site. Then each group member exported the staging back in to their local to make any changes and add style code to the theme files.
@@ -14,7 +25,7 @@ We used siteground as a hosting for our staging development site and used a plug
 We used our Github repositiory for our verison control for our css and php code and used "Visual Studio Code" to allow us to make changes to the css and php files and push the commited updates to Github. We set up the Github repository link in our local development theme folder on each of our computers so that we could see any of the changes in our local site instantly
 
 ## Project Management
-
+We outlined and planned our project on "Trello" and assigned tasks to different group members through the Trello workspace. This was used as our main hub for group meetings and standup meetings to evaluate what had been done and tasks that still needed to be completed. We then used our staging site through screen sharing on "Discord"to visually see what had been 
 
 ## Testing
 We used our local development as our main source of testing for both content layout and css style editing.
