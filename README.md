@@ -29,7 +29,7 @@ Throughout the semester, we gained knowledge about various aspects of building w
 
 
 ## Team Members
-Arjun Baiju
-James Welsh
-Joseph Buen
-Vanessa Calimag
++ Arjun Baiju
++ James Welsh
++ Joseph Buen
++ Vanessa Calimag
