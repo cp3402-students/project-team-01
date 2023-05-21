@@ -128,7 +128,7 @@ remove button to edit form
 }
 
 .site-footer {
-    /* height: 200px; */
+    height: 200px;
     background: lightgray;
     display: flex;
     justify-content: center;
@@ -180,3 +180,12 @@ a:active {
 .comments-area {
     display: none;
 }
+
+.menu-item:last-child>.sub-menu {
+    right: 0;
+}
+
+
+/*
+moves drop down menu to the right, trying to change to vertical
+*/
