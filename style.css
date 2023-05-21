@@ -37,7 +37,7 @@ a:link,
 a:visited,
 a:focus,
 a:active {
-    color: darkslategrey;
+    color: white;
 }
 
 .site-header a:hover {
