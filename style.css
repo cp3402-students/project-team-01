@@ -8,7 +8,8 @@ Template:		underscores
 Version:		1.0.0
 */
 
-body {
+body,
+.page {
     margin: 0;
     font-family: Arial, sans-serif;
 }
@@ -16,10 +17,6 @@ body {
 .site-main {
     width: 80%;
     margin: auto;
-}
-
-.page {
-    margin: 0;
 }
 
 .site-header {
