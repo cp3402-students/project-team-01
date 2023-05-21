@@ -18,19 +18,18 @@ body {
     margin: auto;
 }
 
+.page {
+    margin: 0;
+}
+
 .site-header {
     background-color: lightgray;
-    /* height: 200px; */
     width: 100%;
     display: flex;
     justify-self: flex-end;
     align-items: center;
     padding-left: 2%;
     padding-right: 2%;
-    /*
-    position: fixed;
-    this line makes the menu go off the right of the screen
-    */
     position: sticky;
     top: 0;
     z-index: 1;
@@ -125,7 +124,6 @@ remove button to edit form
 }
 
 .site-footer {
-    /* height: 200px; */
     background: lightgray;
     display: flex;
     justify-content: center;
@@ -133,6 +131,8 @@ remove button to edit form
     font-weight: bold;
     clear: both;
     width: 100%;
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 
 .site-footer a,
@@ -179,8 +179,3 @@ a:active {
 .menu-item:last-child>.sub-menu {
     right: 0;
 }
-
-
-/*
-moves drop down menu to the right, trying to change to vertical
-*/
