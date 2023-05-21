@@ -10,6 +10,17 @@ Throughout the semester, we gained knowledge about various aspects of building w
 
 [Site.md](https://github.com/cp3402-students/project-team-01/blob/main/site.md) | Details about the plugins and procedures required to facilitate website maintenance.
 
+## Theme Files
+[archive.php]
+[footer.php]
+[functions.php]
+[header.php]
+[page-no-sidebar.php]
+[page.php]
+[single.php]
+[style.css]
+
+
 ## Team Members
 Arjun Baiju
 James Welsh
