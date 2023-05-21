@@ -140,3 +140,11 @@ remove button to edit form
     width: 27%;
     padding-right: 6%;
 }
+
+.nav-previous{
+    display: none;
+}
+
+.comments-area{
+    display: none;
+}
