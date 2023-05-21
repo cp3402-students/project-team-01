@@ -13,3 +13,10 @@ We used siteground as a hosting for our staging development site and used a plug
 ## Version Control
 We used our Github repositiory for our verison control for our css and php code and used "Visual Studio Code" to allow us to make changes to the css and php files and push the commited updates to Github. We set up the Github repository link in our local development theme folder on each of our computers so that we could see any of the changes in our local site instantly
 
+## Project Management
+
+
+## Testing
+We used the inspect tab on the web browser of our local site to see the class IDs and tags to certain attrbutes and fields within the site and added in css code to change things like postioning, colour, and margins. We did this testing in the local site using "Visual Studio Code" then once we were happy with the change, we'd commit and push the change to the group repository so that everyone could sync the change to their local sites and continue their testing.
+
+
