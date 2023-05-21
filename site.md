@@ -24,3 +24,6 @@ It helps identify and display the current template being used for a specific pag
 
 + Widget for Social Page Feeds
 It enables to display social media feeds from various platforms on the website. With this plugin, you can easily add customizable widgets that show feeds from popular social media platforms such as Facebook, Twitter, Instagram, and more.
+
+Live site: (https://jamesw402.sg-host.com/)
+Live site with admin privilege: (https://jamesw402.sg-host.com/wp-admin/)
