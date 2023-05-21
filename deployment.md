@@ -17,6 +17,7 @@ We used our Github repositiory for our verison control for our css and php code 
 
 
 ## Testing
+We used our local development as our main source of testing for both content layout and css style editing.
 We used the inspect tab on the web browser of our local site to see the class IDs and tags to certain attrbutes and fields within the site and added in css code to change things like postioning, colour, and margins. We did this testing in the local site using "Visual Studio Code" then once we were happy with the change, we'd commit and push the change to the group repository so that everyone could sync the change to their local sites and continue their testing.
 
 
