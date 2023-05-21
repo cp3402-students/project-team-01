@@ -4,8 +4,11 @@ decisions, colours, etc. You do not need to produce a serious design document or
 details about WordPress theme development, only what is specific to your theme
 
 
-## Theme Features
+## About Underscore
 Underscores also known as _s is a starter theme that provides a foundation for creating custom themes. It allows developers to modify their own set of styles and build functions from the scratch. The underscores theme acts as a blank canvas, providing a starting point for theme development and customization.
+
+## Theme Customisation
+This is a modified version from the parent them underscore to be used in the project for CP3402 by Project Team 01. Some features and functionality are added for the purpose of completing the requirements for the project.
 ## Header Customisation
 
 ## Footer Customisation
