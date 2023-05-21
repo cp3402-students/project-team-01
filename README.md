@@ -11,21 +11,21 @@ Throughout the semester, we gained knowledge about various aspects of building w
 [Site.md](https://github.com/cp3402-students/project-team-01/blob/main/site.md) | Details about the plugins and procedures required to facilitate website maintenance.
 
 ## Theme Files
-[archive.php]
+[archive.php](https://github.com/cp3402-students/project-team-01/blob/main/archive.php)
 
-[footer.php]
+[footer.php](https://github.com/cp3402-students/project-team-01/blob/main/footer.php)
 
-[functions.php]
+[functions.php](https://github.com/cp3402-students/project-team-01/blob/main/functions.php)
 
-[header.php]
+[header.php](https://github.com/cp3402-students/project-team-01/blob/main/header.php)
 
-[page-no-sidebar.php]
+[page-no-sidebar.php](https://github.com/cp3402-students/project-team-01/blob/main/page-no-sidebar.php)
 
-[page.php]
+[page.php](https://github.com/cp3402-students/project-team-01/blob/main/page.php)
 
-[single.php]
+[single.php](https://github.com/cp3402-students/project-team-01/blob/main/single.php)
 
-[style.css]
+[style.css](https://github.com/cp3402-students/project-team-01/blob/main/style.css)
 
 
 ## Team Members
