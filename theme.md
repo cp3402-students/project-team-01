@@ -14,9 +14,16 @@ This is a modified version from the parent them underscore to be used in the pro
 * Customizable navigation menus
 * Custom widgets
 * Page customization
+
 ## Header Customisation
-The header will make the navigation of visitor to the website much easier. This feature is suitable for old age visitors so they will not be lost when they want to navigate to a different page.
+The header will make the navigation of visitor to the website much easier. This feature is suitable for old age visitors so they will not be lost when they want to navigate to a different page. Simply locate the header.php file in the theme folder and make your changes. Developers have the freedom to alter the header section's format and content due to this file. The logo, site title, motto, and navigation bar are all easily recognisable components of the header. Colour, typefaces, layout, and positioning of components like the logo and navigation bar are all controlled by the style.css file. It also determines the header's basic properties. You may quickly change the header to match your chosen design by finding the pertinent classes inside the header section of the stylesheet.
+
+## Footer Customisation
+Similar to the header file, to modify the footer, simply locate the footer.php file within the theme folder. Developers have the freedom to alter the header section's format and content thanks to this file. The fundamental attributes of the footer, including colour, typefaces, layout, and text positioning, are controlled by the style.css file. You may easily change the footer to match your chosen design by finding the pertinent classes inside the footer portion of the stylesheet.
+
 ## Fonts
-We have chosen a simple and user-friendly font, Arial, from the sans-serif font family for the colors used in the theme. This font is widely recognized and familiar to users, ensuring a seamless reading experience. However, for the page title, we opted for a more distinctive and captivating font called Pacifico from the Cursive font family. This change adds a unique and visually appealing touch to the title, making it stand out and capturing the attention of visitors.
+We have chosen a simple and user-friendly font, Arial, from the sans-serif font family for the colours used in the theme. This font is widely recognized and familiar to users, ensuring a seamless reading experience. However, for the page title, we opted for a more distinctive and captivating font called Pacifico from the Cursive font family. This change adds a unique and visually appealing touch to the title, making it stand out and capturing the attention of visitors.
 ## Colours
 
+## Colours
+This colour scheme represents the authenticity and simplicity that are fundamental to country music. The usage of white and grey increases the aesthetics of the site overall and makes the content very readable, allowing users to engage with the site's content effortlessly.
