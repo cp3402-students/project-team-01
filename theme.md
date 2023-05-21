@@ -1,9 +1,3 @@
-This page should help a new developer to continue developing your theme. Include
-relevant information about what features your theme has, files that would need editing, design
-decisions, colours, etc. You do not need to produce a serious design document or reproduce basic
-details about WordPress theme development, only what is specific to your theme
-
-
 ## About Underscore
 Underscores also known as _s is a starter theme that provides a foundation for creating custom themes. It allows developers to modify their own set of styles and build functions from the scratch. The underscores theme acts as a blank canvas, providing a starting point for theme development and customization.
 
