@@ -3,6 +3,9 @@
 ## Creating new post or page
 The content is created using WordPress pages and posts within the admin dashboard. Through this interface, site administrator can easily access and modify the pages accordingly. Every page on the website is connected to a menu item visible in the site header. The WordPress toolkit provides a seamless process for adding extra pages/post to the website.
 
+## How to create a new post
+In order to modify the events and magazine page, the process involves utilising categories and posts. When a member of the country music community intends to make changes to these pages, they generate a new post and publish it within the appropriate category, be it "magazine" or "events," based on the content of the post.
+
 ## Plugins
 ### All-in-One WP Migration
 It allows export the entire site, including the database and media files, into a single export file. Administrator can then import this file to a new WordPress installation to replicate the site.
@@ -25,5 +28,5 @@ It helps identify and display the current template being used for a specific pag
 ### Widget for Social Page Feeds
 It enables to display social media feeds from various platforms on the website. With this plugin, you can easily add customizable widgets that show feeds from popular social media platforms such as Facebook, Twitter, Instagram, and more.
 
-+ Live site: (https://jamesw402.sg-host.com/)
-+ Live site with admin privilege: (https://jamesw402.sg-host.com/wp-admin/)
++ Staging site: (https://jamesw402.sg-host.com/)
++ Staging site with admin privilege: (https://jamesw402.sg-host.com/wp-admin/)
