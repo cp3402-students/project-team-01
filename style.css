@@ -29,7 +29,7 @@ body,
     padding-right: 2%;
     position: sticky;
     top: 0;
-    z-index: 1;
+    z-index: 10;
 }
 
 .site-header a,
@@ -162,41 +162,41 @@ a:active {
     list-style: none;
     padding: 0;
     margin: 0;
-  }
-  
-  .footer-menu li {
+}
+
+.footer-menu li {
     display: inline-block;
     margin-right: 10px;
-  }
-  
-  .footer-menu li:last-child {
+}
+
+.footer-menu li:last-child {
     margin-right: 0;
-  }
-  
-  .footer-menu li a {
+}
+
+.footer-menu li a {
     color: darkslategray;
     text-decoration: none;
-  }
-  
-  .footer-menu li a:hover {
+}
+
+.footer-menu li a:hover {
     text-decoration: underline;
-  }
-  
-  .site-info {
+}
+
+.site-info {
     text-align: center;
     margin-top: 20px;
     font-size: 15px;
     color: grey;
-  }
-  
-  .site-info a {
+}
+
+.site-info a {
     color: grey;
     text-decoration: none;
-  }
-  
-  .site-info a:hover {
+}
+
+.site-info a:hover {
     color: darkslatebluegreen;
-  }
+}
 
 .widget-area {
     float: right;
@@ -215,4 +215,8 @@ a:active {
 
 .menu-item:last-child>.sub-menu {
     right: 0;
+}
+
+.bwg-container {
+    z-index: 1;
 }
