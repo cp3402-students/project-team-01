@@ -20,7 +20,7 @@ body,
 }
 
 .site-header {
-    background-color: lightgray;
+    background-color: #e0cda7;
     width: 100%;
     display: flex;
     justify-self: flex-end;
@@ -41,7 +41,8 @@ a:active {
 }
 
 .site-header a:hover {
-    color: teal;
+    color: #6b4423;
+    text-decoration: underline;
 }
 
 .site-title {
@@ -126,7 +127,7 @@ remove button to edit form
 }
 
 .site-footer {
-    background: lightgray;
+    background: #e0cda7;
     display: flex;
     justify-content: center;
     align-items: center;
