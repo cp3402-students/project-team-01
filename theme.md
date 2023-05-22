@@ -17,7 +17,6 @@ Similar to the header file, to modify the footer, simply locate the footer.php f
 
 ## Fonts
 We have chosen a simple and user-friendly font, Arial, from the sans-serif font family for the colours used in the theme. This font is widely recognized and familiar to users, ensuring a seamless reading experience. However, for the page title, we opted for a more distinctive and captivating font called Pacifico from the Cursive font family. This change adds a unique and visually appealing touch to the title, making it stand out and capturing the attention of visitors.
-## Colours
 
 ## Colours
 This colour scheme represents the authenticity and simplicity that are fundamental to country music. The usage of white and grey increases the aesthetics of the site overall and makes the content very readable, allowing users to engage with the site's content effortlessly.
