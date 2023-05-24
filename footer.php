@@ -17,7 +17,11 @@
         // Footer menu items
         $footerMenuItems = array(
             'Home' => 'http://jamesw402.sg-host.com/',
+<<<<<<< HEAD
             'Events' => 'http://jamesw402.sg-host.com/category/events/',
+=======
+            'Events' => 'http://jamesw402.sg-host.com/events/',
+>>>>>>> 25860da445dc9ef0a81fcec5786a0e74325bed14
             'Magazine' => 'http://jamesw402.sg-host.com/category/magazine/',
             'Gallery' => 'http://jamesw402.sg-host.com/gallery/',
             'About us' => 'http://jamesw402.sg-host.com/about-us/',
